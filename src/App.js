@@ -2,6 +2,8 @@ import './App.css';
 import React, { useState } from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import About from './components/About';
+import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 
 function App() {
@@ -9,6 +11,10 @@ function App() {
 
     const tabRender = () => {
         switch (currentTab) {
+            case 'about':
+                return <About />;
+            case 'portfolio':
+                return <Portfolio />;
             case 'contact':
                 return <Contact />;
             default:
@@ -24,7 +30,7 @@ function App() {
                 ></header>
             </div>
             <div>
-                <main></main>
+                <main>{tabRender()}</main>
             </div>
             <div>
                 <footer></footer>
