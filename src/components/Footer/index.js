@@ -18,7 +18,7 @@ function Footer() {
                     target="_blank"
                 >
                     <img
-                        src={require('../../assets/images/linkedIn.jpg')}
+                        src={require('../../assets/images/linkedin.jpg')}
                         alt="LinkedIn"
                         style={{ height: 50, width: 50 }}
                     ></img>
