@@ -24,6 +24,18 @@ function Footer() {
                     ></img>
                 </a>
             </div>
+            <div>
+                <a
+                    href="https://stackoverflow.com/users/13029576/jollie"
+                    target="_blank"
+                >
+                    <img
+                        src={require('../../assets/images/stackoverflow.png')}
+                        alt="Stack Overflow"
+                        style={{ height: 50, width: 50 }}
+                    ></img>
+                </a>
+            </div>
         </footer>
     );
 }
