@@ -6,7 +6,7 @@ function Header(props) {
 
     return (
         <header>
-            <div>
+            <div className="flex-header">
                 <h1>Jason Oliver's React Portfolio</h1>
             </div>
             <div>
