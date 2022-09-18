@@ -26,7 +26,7 @@ To install clone the repository and open in vs code. This application requires b
 
 ## React Portfolio Live Site
 
--   [React Portfolio Live Site](http://joliver521.github.io/react-portfolio)
+-   [React Portfolio Live Site](https://joliver521.github.io/react-portfolio/)
 
 ## GitHub repository for challenge 20
 
