@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutMeImage from '../../assets/images/JasonOliver_190122_v1.jpg';
+import aboutMeImage from '../../assets/images/profile-pic.jpg';
 
 function About() {
     return (

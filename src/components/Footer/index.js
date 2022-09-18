@@ -18,7 +18,7 @@ function Footer() {
                     target="_blank"
                 >
                     <img
-                        src={require('../../assets/images/linkedin.jpg')}
+                        src={require('../../assets/images/linkedIn.jpg')}
                         alt="LinkedIn"
                         style={{ height: 50, width: 50 }}
                     ></img>
@@ -30,7 +30,7 @@ function Footer() {
                     target="_blank"
                 >
                     <img
-                        src={require('../../assets/images/stackoverflow.png')}
+                        src={require('../../assets/images/stackoverflow.jpg')}
                         alt="Stack Overflow"
                         style={{ height: 50, width: 50 }}
                     ></img>
