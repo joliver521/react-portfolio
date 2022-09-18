@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.77c2e146.css",
+    "main.js": "/react-portfolio/static/js/main.bac7db4c.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/profile-pic.jpg": "/react-portfolio/static/media/profile-pic.022657ffe996a59a1a81.jpg",
+    "static/media/rent-a-ride.png": "/react-portfolio/static/media/rent-a-ride.9c0407443c3983c0cc8a.png",
+    "static/media/note-taker.png": "/react-portfolio/static/media/note-taker.1069e72c74dbac1e6428.png",
+    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.f5e178dfcd4542ac044f.png",
+    "static/media/workday-scheduler.png": "/react-portfolio/static/media/workday-scheduler.f5cce1a49e571d3f3e33.png",
+    "static/media/brews-clues.png": "/react-portfolio/static/media/brews-clues.59f84f0cb98571ac2fc6.png",
+    "static/media/pwa-text-editor.png": "/react-portfolio/static/media/pwa-text-editor.9f708b245d66367a1d7e.png",
+    "static/media/GOTHAM-LIGHT.TTF": "/react-portfolio/static/media/GOTHAM-LIGHT.11bddc203c560232dca3.TTF",
+    "static/media/my_resume.pdf": "/react-portfolio/static/media/my_resume.d43d2acb900a9e5a2a61.pdf",
+    "static/media/GOTHAM-BOLD.TTF": "/react-portfolio/static/media/GOTHAM-BOLD.e7e90266d66863fde009.TTF",
+    "static/media/stackoverflow.jpg": "/react-portfolio/static/media/stackoverflow.0123b8df35f2e7d20bc8.jpg",
+    "static/media/github.png": "/react-portfolio/static/media/github.fc497857196dc743cd9d.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.77c2e146.css.map": "/react-portfolio/static/css/main.77c2e146.css.map",
+    "main.bac7db4c.js.map": "/react-portfolio/static/js/main.bac7db4c.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77c2e146.css",
+    "static/js/main.bac7db4c.js"
+  ]
+}
